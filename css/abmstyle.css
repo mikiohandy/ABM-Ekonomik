@@ -1,0 +1,54 @@
+.top-row{
+    height: 100px;
+    background-color: whitesmoke;
+    padding-left: 10px;
+}
+#logo{
+    background-image: url(../images/ABM_logo.gif);
+    background-repeat: no-repeat;
+    background-size: 45%;
+    background-position: 50%;
+}
+#navigacija{
+     line-height: 6;
+     text-align: center;
+}
+#navigacija li{
+    display: inline-block;
+    margin-left: 2%;
+}
+#top-baner{
+    background-image: url(/images/images_1.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+}
+.box-one{
+    text-align: center;
+    margin-top: 20%;
+}
+.box-two{
+    text-align: center;
+    margin-top: 10%;
+}
+#footer{
+    margin-top: 10px;
+    background-color: black;
+    height: 100px;
+}
+.razmak{
+    margin-top: 10px;
+}
+#mali-logo{
+    background-image: url(../images/mali_logo.gif);
+    background-repeat: no-repeat;
+    background-repeat: no-repeat;
+    background-size: 25%;
+    margin-top: 25px;
+    background-position: center;
+}
+.footer p{
+    color: white; 
+    padding-top: 9%;
+    text-align: center;
+}
