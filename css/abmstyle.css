@@ -39,6 +39,9 @@
 .razmak{
     margin-top: 10px;
 }
+#usluge{
+      padding: 2% 7% 0px 7%;
+}
 #mali-logo{
     background-image: url(../images/mali_logo.gif);
     background-repeat: no-repeat;
