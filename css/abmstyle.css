@@ -1,27 +1,8 @@
-.top-row{
-    height: 100px;
-    background-color: whitesmoke;
-    padding-left: 10px;
-}
+
 #logo{
-    background-image: url(../images/ABM_logo.gif);
-    background-repeat: no-repeat;
-    background-size: 45%;
-    background-position: 50%;
-}
-#navigacija{
-     line-height: 6;
-     text-align: center;
-}
-#navigacija li{
-    display: inline-block;
-    margin-left: 2%;
-}
-#top-baner{
-    background-image: url(/images/images_1.jpeg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 500px;
+    display: block;
+    width: 54%;
+    margin-left: 20%;
 }
 .box-one{
     text-align: center;
@@ -55,4 +36,6 @@
     padding-top: 9%;
     text-align: center;
 }
-
+#nav-pozicija{
+    margin: 1% 10% 0% 0%;
+}
