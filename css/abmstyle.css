@@ -39,3 +39,14 @@
 #nav-pozicija{
     margin: 1% 10% 0% 0%;
 }
+#row-position{
+      margin: 3% 0px 3% 0px;
+}
+#kontakt-position{
+      width: 46%;
+}
+#kontakt-position ul{
+    margin-top: 10%;
+    text-decoration: none;
+    list-style: none;
+}
