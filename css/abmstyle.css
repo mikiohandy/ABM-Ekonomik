@@ -38,6 +38,7 @@
 }
 .footer ul{
     margin-top: 5%;
+      margin-left: -13%;
 }
 .footer li{
     list-style: none;
@@ -50,7 +51,7 @@
 #row-position{
       margin: 3% 0px 3% 0px;
 }
-#kontakt-position ul{
+#row-position ul{
     margin-top: 10%;
     text-decoration: none;
     list-style: none;
