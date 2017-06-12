@@ -72,3 +72,15 @@ p{
 .footer a{
     color: white;
 }
+#naslov-box{
+    margin: 15px 0px 0px 0px;
+    height: 50px;
+    border-top: 3px solid black;
+    border-bottom: 3px solid black;
+}
+#naslov-box h3{
+    font-size: 24px;
+    line-height: 0.3;
+    padding-left: 15px;
+    font-weight: 600;
+}
